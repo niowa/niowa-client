@@ -1,0 +1,8 @@
+{
+  "invalidEmail": "Invalid email format",
+  "required": "Required",
+  "emptyUser": "User has not been sent",
+  "tooShort": "Password must be longer",
+  "invalidItemId": "Check out id",
+  "invalidAmount": "Must be greater than zero"
+}

@@ -1,0 +1,9 @@
+{
+  "welcome": "Hi, admin {{name}}",
+  "emptyUser": "User has not been sent",
+  "email": "Email",
+  "addAdminButton": "add admin",
+  "description": "Description",
+  "price": "Price",
+  "addItemButton": "add item"
+}

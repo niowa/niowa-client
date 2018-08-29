@@ -1,0 +1,9 @@
+{
+  "homeTitle": "Home view",
+  "welcome": "Hi, {{name}}",
+  "emptyUser": "User has not been sent",
+  "itemId": "Item ID",
+  "findItemButton": "find item",
+  "description": "Description",
+  "amount": "Amount"
+}
